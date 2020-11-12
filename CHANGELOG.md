@@ -33,6 +33,8 @@
 - [#9822](https://github.com/MetaMask/metamask-extension/pull/9822): Make QR code button focusable
 - [#9832](https://github.com/MetaMask/metamask-extension/pull/9832): Warn instead of throw on duplicate web3
 - [#9838](https://github.com/MetaMask/metamask-extension/pull/9838): @metamask/controllers@4.0.0
+- [#9856](https://github.com/MetaMask/metamask-extension/pull/9856): Prevent user from getting stuck on opt in page
+- [#9835](https://github.com/MetaMask/metamask-extension/pull/9835): Fix onboarding library integration
 
 ## 8.1.3 Mon Oct 26 2020
 - [#9642](https://github.com/MetaMask/metamask-extension/pull/9642) Prevent excessive overflow from swap dropdowns
